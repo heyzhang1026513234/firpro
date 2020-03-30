@@ -6,3 +6,4 @@
  * Time: 19:28
  */
 echo 'Hello Git!';
+echo 'Hello World!';
